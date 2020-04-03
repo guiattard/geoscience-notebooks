@@ -1,2 +1,2 @@
 # PythonForGeosciences
-Content of the my blog - Python For Geosciences
+Content of my blog - Python For Geosciences
