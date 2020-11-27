@@ -1,2 +1,6 @@
 # PythonForGeosciences
-Content of my blog - Python For Geosciences
+In this repository, you will find all jupyter notebook published on my blog.
+
+To know more, please visit https://guillaumeattard.com/blog/
+
+Guillaume Attard
