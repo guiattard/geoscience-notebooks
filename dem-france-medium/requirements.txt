@@ -1,0 +1,7 @@
+jupyter
+py7zr
+pandas
+rasterio
+gdal
+matplotlib
+tqdm
